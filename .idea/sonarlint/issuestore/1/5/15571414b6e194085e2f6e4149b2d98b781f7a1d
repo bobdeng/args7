@@ -1,0 +1,14 @@
+
+jsquid:UselessImportCheck":Remove this unused import 'sun.jvm.hotspot.oops.OopField'.(„‰â½øÿÿÿÿ8³è±á-
+esquid:UselessImportCheck"5Remove this unused import 'org.junit.runners.JUnit4'.(æÌã»ùÿÿÿÿ8³è±á-
+nsquid:S1192"KDefine a constant instead of duplicating this literal "/usr/local" 3 times.(â¿«üÿÿÿÿ8ª¡±á-
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²š¨8³è±á-
+`squid:UselessImportCheck"5Remove this unused import 'org.junit.runner.RunWith'.(¸ıºô8³è±á-
+msquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÒµŠ8³è±á-
+Xsquid:UselessImportCheck"-Remove this unused import 'org.junit.Before'.(ÙşºÙ8³è±á-
+rsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼™›ûùÿÿÿÿ8³è±á-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÎö’8³è±á-
+rsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä…Ü¿ùÿÿÿÿ8³è±á-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(„‰â½øÿÿÿÿ8³è±á-
+zsquid:S1192."WDefine a constant instead of duplicating this literal "-l /usr/local -d -p 80" 3 times.(Ú¢Úªùÿÿÿÿ8ØÌ£±á-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šßó¡ûÿÿÿÿ8³è±á-
